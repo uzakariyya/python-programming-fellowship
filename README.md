@@ -26,7 +26,7 @@ Applications for Cohort 3.0 have now closed, but we welcome you to participate i
 The first part of our fellowship focuses on building a strong foundation in the essential tools used in Data Science and Machine Learning.
 We'll guide you through:
 
-- **Learning Strategies**: Discover effective methods to enhance your learning and retention.
+- **Installations**: Installation of Python, Anaconda/Miniconda, WSL, Git
 - **Development Environment**: Set up your development environment with tools like VSCode.
 - **Version Control**: Learn to track and manage your code changes using Git and GitHub.
 - **Python Programming**: Master the basics of Python, the language of choice for data analysis.
