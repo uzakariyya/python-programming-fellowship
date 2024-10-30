@@ -4,6 +4,10 @@
 
 ---
 
+This marks the beginning of the curriculum at Arewa Data Science Academy. We firmly believe that a strong understanding of Python programming will greatly enhance your experience in learning data science and machine learning. In this course, you will be comprehensively taught everything required to become a proficient Python programmer, including Python for data science and the fundamentals of programming. Upon successful completion of this challenge, you will be awarded a certificate of Python Programmer from Arewa Data Science Academy. Only those who completed the challenge will move to the next stage of the fellowship.
+
+
+
 ### Author Links
 
 👋 Hello, I'm Dave Gray.
