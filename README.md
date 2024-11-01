@@ -76,7 +76,7 @@ Applications for Cohort 3.0 have now closed, but you can still access our materi
 
 Whether you're just starting or deepening your skills, our fellowship offers a structured path to master Python fundamentals and beyond. The fellowship has three main stages:
 
-- **[Stage 1: Python Programming](#stage-1-getting-started)** - Essential Python skills for data science and machine learning.
+- **[Stage 1: Python Programming](#stage-1-getting-started)** - Essential Python skills for data science and machine learning (this course).
 - **[Stage 2: Data Science](#stage-2-data-science)** - Data handling, from cleaning to analyzing.
 - **[Stage 3: Machine Learning](#stage-3-machine-learning)** - Introduction to machine learning techniques and Scikit-learn.
 
