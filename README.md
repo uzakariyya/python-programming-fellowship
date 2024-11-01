@@ -63,8 +63,8 @@ You can find the list of accepted fellows, the mentor list, the recording of the
 | Kickoff Recording Ethiqueet | [Link to Recording](#)                                                                                                                          |
 | Kickoff Slides              | [Link to slides](#) |
 
-
 We are excited to have you on board and can't wait to see the amazing things you'll accomplish.
+
 ---
 
 ## Setup and Installation
