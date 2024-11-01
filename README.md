@@ -1,6 +1,5 @@
-# ArewaDS Python for Beginners - Cohort 3.0
----
-# Table of Contents
+# Table of Contents : ArewaDS Python for Beginners - Cohort 3.0
+
 - **📘 [ArewaDS Python for Beginners - Cohort 3.0](#arewads-python-for-beginners---cohort-30)**
 - **🗂 [Table of Contents](#table-of-contents)**
     - **💡 [Interested in Joining the Fellowship?](#interested-in-joining-the-fellowship)**
