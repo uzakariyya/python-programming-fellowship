@@ -67,26 +67,9 @@ We are excited to have you on board and can't wait to see the amazing things you
 
 ## Setup and Installation
 
-The first part of our fellowship focuses on building a strong foundation in the essential tools used in Data Science and Machine Learning.
-We'll guide you through:
-
-- **Installations**: Installation of Python, Anaconda/Miniconda, WSL, Git
-- **Development Environment**: Set up your development environment with tools like VSCode.
-- **Version Control**: Learn to track and manage your code changes using Git and GitHub.
-- **Python Programming**: Master the basics of Python, the language of choice for data analysis.
-    
-    In this section, we'll cover how to set up your development environment using Visual Studio Code (VSCode), including how to use Jupyter notebooks within it. We'll also dive into using a python virtual environment, Git for version control, GitHub for collaboration, and Markdown for documentation.
-    
+The first part of our fellowship focuses on building a strong foundation in the essential tools used in Data Science and Machine Learning. We will cover installations, how to set up your development environment using Visual Studio Code (VSCode), including how to use Jupyter notebooks within it. We'll also dive into using a python virtual environment, Git for version control, GitHub for collaboration, Markdown and how to write Medium Blogpost.
 
 We have provided detailed instructions, but you might not understand all the details of the setup for now. It will become clearer as you proceed with the course. So don't despair, put on your patience hat, and ask for help when needed. There's light at the other end of the tunnel.
-
-### Setup and Installation
-
-In this section, we'll cover how to set up your development environment using Visual Studio Code (VSCode), including how to use Jupyter notebooks within it. We'll also dive into using a python virtual environment, Git for version control, GitHub for collaboration, and Markdown for documentation.
-
-We have provided detailed instructions, but you might not understand all the details of the setup for now. It will become clearer as you proceed with the course. So don't despair, put on your patience hat, and ask for help when needed. There's light at the other end of the tunnel. 
-
-
 
 | Title                             | Resource                                                                                                                                                                                                                                                                                                                                                                                   | Recording                                                                                                                                                   | Mentor                                                                 |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
