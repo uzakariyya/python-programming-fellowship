@@ -18,6 +18,24 @@ This course is designed around hands-on, bite-sized exercises inspired by "Atomi
 
 ## 🗂 Table of Contents
 
+## 🗂 Table of Contents
+
+- **📘 [ArewaDS Python for Beginners - Cohort 3.0](#-arewads-python-for-beginners---cohort-30)**
+- **🗂 [Table of Contents](#-table-of-contents)**
+    - **💡 [Interested in Joining the Fellowship?](#-interested-in-joining-the-fellowship)**
+    - **🌐 [Contact & Community](#-contact--community)**
+- **🎉 [Welcome to Cohort 3.0 ArewaDS Fellowship](#-welcome-to-cohort-30-arewads-fellowship)**
+    - **🎓 [Graduation Requirements](#-graduation-requirements)**
+    - **🎥 [Fellowship Kickoff](#-fellowship-kickoff)**
+- **🛠 [Setup and Installation](#-setup-and-installation)**
+    - **Setup Guide**
+- **🐍 [Python Programming](#-python-programming)**
+    - **📑 [Python Basics & Data Structures](#-python-basics--data-structures)**
+    - **🔄 [Control Flow & Functions](#-control-flow--functions)**
+    - **⚙️ [Advanced Python Concepts](#-advanced-python-concepts)**
+    - **📊 [Python for Data Science](#-python-for-data-science)**
+
+<!-- 
 - **📘 [ArewaDS Python for Beginners - Cohort 3.0](#arewads-python-for-beginners---cohort-30)**
 - **🗂 [Table of Contents](#table-of-contents)**
     - **💡 [Interested in Joining the Fellowship?](#interested-in-joining-the-fellowship)**
@@ -30,7 +48,7 @@ This course is designed around hands-on, bite-sized exercises inspired by "Atomi
     - **📑 [Python Basics & Data Structures](#python-basics--data-structures)**
     - **🔄 [Control Flow & Functions](#control-flow--functions)**
     - **⚙️ [Advanced Python Concepts](#advanced-python-concepts)**
-    - **📊 [Python for Data Science](#python-for-data-science)**
+    - **📊 [Python for Data Science](#python-for-data-science)** -->
 
 ---
 
