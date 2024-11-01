@@ -1,14 +1,17 @@
-# "Python for Beginners"
+# Python for Beginners
 
 ---
 
-Welcome to Arewa Data Science Academy Python Programming Fellowship. This is a comprehensive, free program aimed at equipping aspiring data scientists and machine learning engineers with the skills and knowledge needed to excel in the field.  We firmly believe that a strong understanding of Python programming will greatly enhance your experience in learning data science and machine learning. In this course, you will be comprehensively taught everything required to become a proficient Python programmer, including Python for data science and the fundamentals of programming. Upon successful completion of this challenge, you will be awarded a certificate of Python Programmer from Arewa Data Science Academy. Only those who completed the challenge will move to the next stage of the fellowship.
+Welcome to Arewa Data Science Academy Python Programming Fellowship. This is a comprehensive, free program aimed at equipping aspiring data scientists and machine learning engineers with the skills and knowledge needed to excel in the field. Strong understanding of Python programming will greatly enhance your experience in learning data science and machine learning. 
 
-The course is designed to help you improve your Python skills through daily exercises inspired by the book "Atomic Habits" by James Clear. Each day, you will be presented with a task that will help you build better habits and become more proficient in Python. By completing these daily tasks, you will gain a deeper understanding of the language and be able to apply your knowledge to real-world problems. Remember, consistency is key, so make sure to complete each task every day to get the most out of this challenge. Be active in our channel and ask question if you have. No dump question.
+<!-- In this course, you will be comprehensively taught everything required to become a proficient Python programmer, including Python for data science and the fundamentals of programming. Upon successful completion of this challenge, you will be awarded a certificate of Python Programmer from Arewa Data Science Academy. Only those who completed the challenge will move to the next stage of the fellowship. -->
 
-The Challenge is a rigorous and challenging. It is not just a simple series of exercises, but an opportunity to build better habits and become more proficient in the language. Completing this course will require dedication and hard work, but the results will be well worth it. This is a great opportunity to take your skills to the next level, so be prepared to push yourself and stay committed to the challenge. Remember, the only way to improve is to challenge yourself, so let's get started!
+The course is designed to help you improve your Python skills through hands-on and bit size exercises inspired by the book "Atomic Habits" by James Clear. You will be presented with a task that will help you build better habits and become more proficient in Python. By completing these tasks, you will gain a deeper understanding of the language and be able to apply your knowledge to real-world problems. Remember, consistency is key, so make sure to complete each task every day to get the most out of this challenge. Remember, the only way to improve is to challenge yourself, so let's get started! Be active in our channel and ask question if you have. No dump question. 
 
-Our curriculum is carefully designed to guide participants through the basics of programming and data analysis to the more complex concepts of machine learning algorithms and applications. With a blend of theory and practical assignments, fellows engage in a hands-on learning experience that prepares them for real-world data science challenges.
+
+
+
+
 
 ### Interested in Joining the Fellowship?
 
@@ -19,6 +22,18 @@ Applications for Cohort 3.0 have now closed, but we welcome you to participate i
 - Website: [Arewa Data Science Official Website](https://arewadatascience.github.io/)
 - Email: [arewadatascience@gmail.com](mailto:arewadatascience@gmail.com)
 - [Twitter](https://twitter.com/arewadatascience) | [Facebook](https://www.facebook.com/arewadatascience) | [LinkedIn](https://www.linkedin.com/company/arewadatascience) | [YouTube](https://www.youtube.com/@arewadatascienceacademy7195/videos) | [Telegram](https://t.me/+vGZvQdggp1A4NzNk)
+
+
+## Welcome to Cohort 3.0 ArewaDS Fellowship
+
+Welcome to the Arewa Data Science and Machine Learning Cohort 3.0 Fellowship!. Whether you're just starting or looking to deepen your existing skills, our fellowship offers a structured path to mastering the fundamentals and advanced concepts. We've organized the fellowship into three main parts:
+
+- **[Stage 1: Python Programming](#stage-1-getting-started)** - This part covers the essential Python skills needed for data scince and machine learnnig
+- **[Stage 2: Data Science](#stage-2-data-science)** - This part covers data handling, from cleaning to analyzing.
+- **[Stage 3: Machine Learning](#stage-3-machine-learning)** - Here, you'll dive into machine learning techniques and tools like Scikit-learn.
+
+Upon completion of each stage, participants will be given certificate of completion.
+
 
 ## Setup and Installation
 
