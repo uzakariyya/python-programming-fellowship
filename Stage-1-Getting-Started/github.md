@@ -11,7 +11,7 @@ This guide will walk you through the process of setting up Git and GitHub. These
 ## 1. Understanding Git and GitHub
 
 - **Git**: `Git` is a distributed version-control system for tracking changes in source code. 
-- **GitHub**: An online platform that uses Git. It allows you to store your repositories online and collaborate with others. A `repository` is where code lives, and the code from the prep course will live at [`arewa-ds-fewllowship`](https://github.com/arewadataScience/ArewaDS-Machine-Learning) repository (basically where you are right now, reading this). All the learning materials and exercises will be released (made available) on this repository. You will learn more about `git` in the coming weeks.
+- **GitHub**: An online platform that uses Git. It allows you to store your repositories online and collaborate with others. A `repository` is where code lives, and the code from the prep course will live at [`arewa-ds-fewllowship`](https://github.com/arewadataScience/python-programming-fellowship) repository (basically where you are right now, reading this). All the learning materials and exercises will be released (made available) on this repository. You will learn more about `git` in the coming weeks.
 
 ## 2. Sign Up for GitHub
 
@@ -109,7 +109,7 @@ You should now have a local copy of your `arewa-ds-workspace` in your `~/project
 
 ### 2.4 Clone the `ArewaDS-Machine-Learning` repository
 
-Let's clone the [`ArewaDS-Machine-Learning`](https://github.com/arewadataScience/ArewaDS-Machine-Learning) repository. This is where all of the learning materials will be made available as the course progresses. You will be getting them (pulling) from there.
+Let's clone the [`ArewaDS-Machine-Learning`](https://github.com/arewadataScience/python-programming-fellowship) repository. This is where all of the learning materials will be made available as the course progresses. You will be getting them (pulling) from there.
 
 **Step 1:** Open a terminal (or use one you've already opened) and enter the `projects` folder:
 
