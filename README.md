@@ -91,6 +91,8 @@ To graduate from the Arewa Data Science and Machine Learning Fellowship, fellows
 - **Attendance**: Maintain a 90% attendance rate for weekly office hours (Saturday and Sunday).
 - **Capstone Project**: Complete a capstone project that demonstrates your ability to apply learned skills to a real-world problem, approved by the ArewaDS Team.
 
+However, for each stage we will provide certificate of completion.
+
 ---
 
 ### 🎥 Fellowship Kickoff
