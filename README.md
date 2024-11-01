@@ -19,6 +19,7 @@ Applications for Cohort 3.0 have now closed, but we welcome you to participate i
 
 ### Contact & Community:
 
+- 📺 [YouTube Playlist](#) for this repository.
 - Website: [Arewa Data Science Official Website](https://arewadatascience.github.io/)
 - Email: [arewadatascience@gmail.com](mailto:arewadatascience@gmail.com)
 - [Twitter](https://twitter.com/arewadatascience) | [Facebook](https://www.facebook.com/arewadatascience) | [LinkedIn](https://www.linkedin.com/company/arewadatascience) | [YouTube](https://www.youtube.com/@arewadatascienceacademy7195/videos) | [Telegram](https://t.me/+vGZvQdggp1A4NzNk)
