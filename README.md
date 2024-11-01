@@ -2,6 +2,22 @@
 
 ---
 
+## Table of Contents
+- [ArewaDS Python for Beginners - Cohort 3.0](#arewads-python-for-beginners---cohort-30)
+  - [Table of Contents](#table-of-contents)
+    - [Interested in Joining the Fellowship?](#interested-in-joining-the-fellowship)
+    - [Contact \& Community:](#contact--community)
+  - [Welcome to Cohort 3.0 ArewaDS Fellowship](#welcome-to-cohort-30-arewads-fellowship)
+    - [Graduation Requirements](#graduation-requirements)
+    - [Fellowship Kickoff](#fellowship-kickoff)
+  - [Setup and Installation](#setup-and-installation)
+  - [Python Programming](#python-programming)
+    - [Python Basics \& Data Structures](#python-basics--data-structures)
+    - [Control Flow \& Functions](#control-flow--functions)
+    - [Advanced Python Concepts](#advanced-python-concepts)
+    - [Python for Data Science](#python-for-data-science)
+
+---
 Welcome to Arewa Data Science Academy Python Programming Fellowship. This is a comprehensive, free program aimed at equipping aspiring data scientists and machine learning engineers with the skills and knowledge needed to excel in the field. Strong understanding of Python programming will greatly enhance your experience in learning data science and machine learning. 
 
 <!-- In this course, you will be comprehensively taught everything required to become a proficient Python programmer, including Python for data science and the fundamentals of programming. Upon successful completion of this challenge, you will be awarded a certificate of Python Programmer from Arewa Data Science Academy. Only those who completed the challenge will move to the next stage of the fellowship. -->
