@@ -56,11 +56,11 @@ You can find the list of accepted fellows, the mentor list, the recording of the
 
 | Component                   | Resource                                                                                                                                                                                  |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Accepted Fellows Page       | [Visit the Accepted Fellows Page](https://arewadatascience.github.io/fellows-ml-2.html)                                                                                                   |
-| Mentors/Mentee Info         | [mentor/mentee page](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/mentor_mentee.md)                                                                             |
-| Communication (Telegram)    | [How to use Arewa Data Science Telegram Group](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/telegram.md)                                |
-| Kickoff Recording Ethiqueet | [Link to Recording](https://www.youtube.com/watch?v=q6sQmF_nu6U)                                                                                                                          |
-| Kickoff Slides              | [Link to slides](https://docs.google.com/presentation/d/e/2PACX-1vTz8P0kreFLhUhseaF-ipdN_iIi4AvWx8y_jVjRqrzhgt_zIKjWrqEOJf7q-RbP5dLIVrFCLZNwH8zt/pub?start=false&loop=false&delayms=3000) |
+| Accepted Fellows Page       | [Visit the Accepted Fellows Page](#)                                                                                                   |
+| Mentors/Mentee Info         | [mentor/mentee page](#)                                                                             |
+| Communication (Telegram)    | [How to use Arewa Data Science Telegram Group](#)                                |
+| Kickoff Recording Ethiqueet | [Link to Recording](#)                                                                                                                          |
+| Kickoff Slides              | [Link to slides](#) |
 
 
 We are excited to have you on board and can't wait to see the amazing things you'll accomplish.
