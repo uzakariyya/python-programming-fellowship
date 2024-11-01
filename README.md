@@ -1,3 +1,9 @@
+<p align="center">
+<img src="assets/arewadsimage.png">
+</p>
+
+ArewaDS website: https://arewadatascience.github.io
+
 # Table of Contents : ArewaDS Python for Beginners - Cohort 3.0
 
 - **📘 [ArewaDS Python for Beginners - Cohort 3.0](#arewads-python-for-beginners---cohort-30)**
