@@ -33,7 +33,7 @@ Welcome to the Arewa Data Science and Machine Learning Cohort 3.0 Fellowship!. W
 - **[Stage 3: Machine Learning](#stage-3-machine-learning)** - Here, you'll dive into machine learning techniques and tools like Scikit-learn.
 
 
-## Graduation Requirements
+### Graduation Requirements
 
 To graduate from the Arewa Data Science and Machine Learning Fellowship, fellows must meet the following criteria:
 
@@ -50,7 +50,7 @@ To graduate from the Arewa Data Science and Machine Learning Fellowship, fellows
 - **Capstone Project**: Complete a capstone project that demonstrates the ability to apply learned skills to a real-world problem. The project must be approved by the ArewaDS Team.
 
 
-## Fellowship Kickoff
+### Fellowship Kickoff
 
 You can find the list of accepted fellows, the mentor list, the recording of the kickoff event and the slides used during the presentation below.
 
