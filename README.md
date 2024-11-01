@@ -1,4 +1,4 @@
-# ArewaDS Python for Beginners
+# ArewaDS Python for Beginners - Cohort 3.0
 
 ---
 
