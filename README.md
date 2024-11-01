@@ -111,7 +111,6 @@ Find the list of accepted fellows, mentor details, recording of the kickoff even
 
 In this initial part, we’ll guide you through the essential tools needed for data science and machine learning, including installing VSCode, Jupyter Notebooks, Python virtual environments, Git for version control, GitHub for collaboration, Markdown, and creating a Medium blog post.
 
-### Setup Guide
 
 | Title                         | Resource                                                                                           | Recording                                                                                            | Mentor                                             |
 | ----------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
