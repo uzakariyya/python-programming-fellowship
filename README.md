@@ -102,7 +102,7 @@ Find the list of accepted fellows, mentor details, recording of the kickoff even
 | Component                   | Resource                                                  |
 | --------------------------- | --------------------------------------------------------- |
 | Accepted Fellows Page       | [Visit the Accepted Fellows Page](#)                      |
-| Mentors/Mentee Info         | [Mentor/Mentee Page](#)                                   |
+| Mentors        | [Check our Mentors list](#)                                   |
 | Communication (Telegram)    | [How to use Arewa Data Science Telegram Group](#)         |
 | Kickoff Recording           | [Link to Recording](#)                                    |
 | Kickoff Slides              | [Link to Slides](#)                                       |
