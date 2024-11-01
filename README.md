@@ -103,9 +103,9 @@ Find the list of accepted fellows, mentor details, recording of the kickoff even
 | --------------------------- | --------------------------------------------------------- |
 | Accepted Fellows Page       | [Visit the Accepted Fellows Page](#)                      |
 | Mentors        | [Check our Mentors list](#)                                   |
-| Communication (Telegram)    | [How to use Arewa Data Science Telegram Group](#)         |
-| Kickoff Recording           | [Link to Recording](#)                                    |
-| Kickoff Slides              | [Link to Slides](#)                                       |
+| Communication (Telegram)    | [How to use Arewa Data Science Telegram Group](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/telegram.md)         |
+| Kickoff Recording           | [Link to Recording](https://www.youtube.com/watch?v=J5wv6no8IYA&list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY&index=2&t=4s)                                    |
+| Kickoff Slides              | [Link to Slides](https://docs.google.com/presentation/d/e/2PACX-1vTz8P0kreFLhUhseaF-ipdN_iIi4AvWx8y_jVjRqrzhgt_zIKjWrqEOJf7q-RbP5dLIVrFCLZNwH8zt/pub?start=true&loop=true&delayms=10000&slide=id.p1)                                       |
 
 ---
 
