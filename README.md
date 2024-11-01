@@ -87,7 +87,41 @@ We have provided detailed instructions, but you might not understand all the det
 | Google Colab                      | [Google Colab](#)                                                                                                                                                                                                                                                                                                                                                                          | [Recording](https://youtu.be/3P5PgSzHPmI?si=G5PJlkd0CrlVfLiN)                                                                                                                                                             | [Dr. Idris](https://www.linkedin.com/in/abumafrim/)                    |
 | Python Functions and Modules        | [Functions and Modules ](https://github.com/arewadataScience/30-Days-of-Python/blob/main/11_Day_Functions/11_functions.md)                                | [Recording](https://youtu.be/u1CuieDA-l4)             | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/)
 | Generative AI                     |                                                                                                                                                                                                                                                      ---
-    
+     
+
+## Python Basics & Data Structures
+
+- **[Introduction](#)**  
+- **[Variables & Built-in Functions](#)**  
+- **[Operators](#)**  
+- **[Strings](#)**  
+- **[Lists, Tuples, and Sets](#)**  
+- **[Dictionaries](#)**  
+
+# Control Flow & Functions
+
+- **[Conditionals](#)**  
+- **[Loops](#)**  
+- **[Functions & List Comprehension](#)**  
+- **[Higher-Order Functions](#)**  
+
+# Advanced Python Concepts
+
+- **[Type Errors & Exception Handling](#)**  
+- **[Regular Expressions](#)**  
+- **[DateTime & File Handling](#)**  
+- **[Modules & Virtual Environment](#)**  
+
+# Python for Data Science
+
+- **[Package Management](#)**  
+- **[Classes and Objects](#)**  
+- **[Web Scraping & APIs](#)**  
+- **[Statistics, NumPy, and Pandas](#)**  
+
+
+
+
 
 ### Getting Started
 
