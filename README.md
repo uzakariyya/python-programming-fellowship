@@ -23,6 +23,7 @@ Applications for Cohort 3.0 have now closed, but we welcome you to participate i
 - Email: [arewadatascience@gmail.com](mailto:arewadatascience@gmail.com)
 - [Twitter](https://twitter.com/arewadatascience) | [Facebook](https://www.facebook.com/arewadatascience) | [LinkedIn](https://www.linkedin.com/company/arewadatascience) | [YouTube](https://www.youtube.com/@arewadatascienceacademy7195/videos) | [Telegram](https://t.me/+vGZvQdggp1A4NzNk)
 
+---
 
 ## Welcome to Cohort 3.0 ArewaDS Fellowship
 
@@ -64,6 +65,7 @@ You can find the list of accepted fellows, the mentor list, the recording of the
 
 
 We are excited to have you on board and can't wait to see the amazing things you'll accomplish.
+---
 
 ## Setup and Installation
 
@@ -84,7 +86,8 @@ We have provided detailed instructions, but you might not understand all the det
 | GitHub for Collaboration          | [Advaced GitHub](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/advancedgithub.md)                                                                                                                                                                                                                                                         |                                                                                                                                                             | [Dr Idris](https://www.linkedin.com/in/abumafrim/) | 
 | Google Colab                      | [Google Colab](#)                                                                                                                                                                                                                                                                                                                                                                          | [Recording](https://youtu.be/3P5PgSzHPmI?si=G5PJlkd0CrlVfLiN)                                                                                                                                                             | [Dr. Idris](https://www.linkedin.com/in/abumafrim/)                    |
 | Python Functions and Modules        | [Functions and Modules ](https://github.com/arewadataScience/30-Days-of-Python/blob/main/11_Day_Functions/11_functions.md)                                | [Recording](https://youtu.be/u1CuieDA-l4)             | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/)
-| Generative AI                     |                                                                                                                                                                                                                                                              
+| Generative AI                     |                                                                                                                                                                                                                                                      ---
+    
 
 ### Getting Started
 
