@@ -1,4 +1,4 @@
-# Python for Beginners
+# ArewaDS Python for Beginners
 
 ---
 
@@ -32,7 +32,22 @@ Welcome to the Arewa Data Science and Machine Learning Cohort 3.0 Fellowship!. W
 - **[Stage 2: Data Science](#stage-2-data-science)** - This part covers data handling, from cleaning to analyzing.
 - **[Stage 3: Machine Learning](#stage-3-machine-learning)** - Here, you'll dive into machine learning techniques and tools like Scikit-learn.
 
-Upon completion of each stage, participants will be given certificate of completion.
+
+## Graduation Requirements
+
+To graduate from the Arewa Data Science and Machine Learning Fellowship, fellows must meet the following criteria:
+
+- **Completion of three stages**: Fellows must complete all the three stages to receieve Arewa Data Science and Machine Learning Certificate. However, upon completion of each stage, participants will be given certificate of completion.
+
+
+
+- **Assignments and Medium BlogPost**: Submission of all required assignments and assigned blog post by the specified deadlines. Posts must meet the quality standards set by the mentors.
+
+- **Attendance**: Maintain a 90% attendance rate for weekly office hours (Saturday and Sunday). 
+  
+<!-- - See [attendance list](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/attendance.md) -->
+
+- **Capstone Project**: Complete a capstone project that demonstrates the ability to apply learned skills to a real-world problem. The project must be approved by the ArewaDS Team.
 
 
 ## Setup and Installation
