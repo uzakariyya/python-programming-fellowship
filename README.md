@@ -90,39 +90,36 @@ We have provided detailed instructions, but you might not understand all the det
 | Generative AI                     |                                                                                                                                                                                                                                                     
 
 ## Python Programming
-     
+
 ### Python Basics & Data Structures
 
-- **[Introduction](#)**  
-- **[Variables & Built-in Functions](#)**  
-- **[Operators](#)**  
-- **[Strings](#)**  
-- **[Lists, Tuples, and Sets](#)**  
-- **[Dictionaries](#)**  
+- 🔗 [Introduction](#)
+- 🔗 [Variables & Built-in Functions](#)
+- 🔗 [Operators](#)
+- 🔗 [Strings](#)
+- 🔗 [Lists, Tuples, and Sets](#)
+- 🔗 [Dictionaries](#)
 
 ### Control Flow & Functions
 
-- **[Conditionals](#)**  
-- **[Loops](#)**  
-- **[Functions & List Comprehension](#)**  
-- **[Higher-Order Functions](#)**  
+- 🔗 [Conditionals](#)
+- 🔗 [Loops](#)
+- 🔗 [Functions & List Comprehension](#)
+- 🔗 [Higher-Order Functions](#)
 
 ### Advanced Python Concepts
 
-- **[Type Errors & Exception Handling](#)**  
-- **[Regular Expressions](#)**  
-- **[DateTime & File Handling](#)**  
-- **[Modules & Virtual Environment](#)**  
+- 🔗 [Type Errors & Exception Handling](#)
+- 🔗 [Regular Expressions](#)
+- 🔗 [DateTime & File Handling](#)
+- 🔗 [Modules & Virtual Environment](#)
 
 ### Python for Data Science
 
-- **[Package Management](#)**  
-- **[Classes and Objects](#)**  
-- **[Web Scraping & APIs](#)**  
-- **[Statistics, NumPy, and Pandas](#)**  
-
-
-
+- 🔗 [Package Management](#)
+- 🔗 [Classes and Objects](#)
+- 🔗 [Web Scraping & APIs](#)
+- 🔗 [Statistics, NumPy, and Pandas](#)
 
 
 ### Getting Started
