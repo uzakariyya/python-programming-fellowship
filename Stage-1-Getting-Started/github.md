@@ -107,9 +107,9 @@ You should now have a local copy of your `arewa-ds-workspace` in your `~/project
 
 <img src='media/personal_access_token.PNG' width="75%" />
 
-### 2.4 Clone the `ArewaDS-Machine-Learning` repository
+### 2.4 Clone the `Python-Programming-Fellowship` repository
 
-Let's clone the [`ArewaDS-Machine-Learning`](https://github.com/arewadataScience/python-programming-fellowship) repository. This is where all of the learning materials will be made available as the course progresses. You will be getting them (pulling) from there.
+Let's clone the [`Python-Programming-Fellowship`](https://github.com/arewadataScience/python-programming-fellowship) repository. This is where all of the learning materials will be made available as the course progresses. You will be getting them (pulling) from there.
 
 **Step 1:** Open a terminal (or use one you've already opened) and enter the `projects` folder:
 
@@ -117,16 +117,16 @@ Let's clone the [`ArewaDS-Machine-Learning`](https://github.com/arewadataScience
 cd ~/projects
 ```
 
-**Step 2:** Clone the ArewaDS-Machine-Learning course repository (the repository you're reading right now!):
+**Step 2:** Clone the Python-Programming-Fellowship repository (the repository you're reading right now!):
 
 ```bash
-git clone https://github.com/arewadataScience/ArewaDS-Machine-Learning.git
+git clone https://github.com/arewadataScience/python-programming-fellowship
 ```
 
 If you are using `ssh keys` for `GitHub`, use this command:
 
 ```bash
-git clone git@github.com:arewadataScience/ArewaDS-Machine-Learning.git
+git clone git@github.com:arewadataScience/python-programming-fellowship
 ```
 
 And you're done with setting `Git` and `GitHub`! Go back to the main menu and continue with step.
