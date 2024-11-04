@@ -1,6 +1,5 @@
 # Assignment: GitHub Fundamentals
 
-**Objective:**  
 The goal of this assignment is to get familiar with using GitHub, a powerful platform for version control and collaboration in software development. By the end, you should be comfortable with creating repositories, making commits, using branches, practicing pushes, and collaborating through pull requests.
 
 ---
