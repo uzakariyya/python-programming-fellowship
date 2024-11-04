@@ -18,7 +18,7 @@ The goal of this assignment is to get familiar with using GitHub, a powerful pla
      ```
 
 3. **Create a New Repository**
-   - Go to your GitHub profile, create a new repository named **"GitHub_Practice"**.
+   - Go to your GitHub profile, create a new repository named **"ArewaDS-Fellowship"**.
    - Initialize the repository with a `README.md` file and a `.gitignore` file (choose Python if you’re primarily coding in Python).
 
 4. **Clone the Repository to Your Local Machine**
