@@ -114,7 +114,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 
 
 
-#### 📝 Assignments: Setup and Installation
+### 📝 Assignments: Setup and Installation
 
 | Assignment Name                          | Link to Assignment                                                   |
 | ---------------------------------------- | --------------------------------------------------------------------- |
