@@ -119,7 +119,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 | Assignment Name                          | Link to Assignment                                                   |
 | ---------------------------------------- | --------------------------------------------------------------------- |
 | Writting for Data Science                     | [Link to GitHub Fundamentals Assignment](#)                           |
-| GitHub Fundamentals                      | [Link to GitHub Fundamentals Assignment](#)                           |
+| GitHub Fundamentals                      | [Link to GitHub Fundamentals Assignment](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Stage-1-Getting-Started/GitHub%20Fundamentals.md)                           |
 
 ---
 
