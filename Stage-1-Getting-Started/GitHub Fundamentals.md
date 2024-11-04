@@ -68,6 +68,20 @@ The goal of this assignment is to get familiar with using GitHub, a powerful pla
 
 ---
 
-## Submission
-- Provide the link to your GitHub repository and a screenshot of your merged pull request.
+# **Optional Question**
 
+Research and answer the following:
+
+1. **What is a Fork in GitHub?**
+   - Describe the concept of forking a repository on GitHub.
+   - How does it differ from simply cloning a repository?
+
+2. **When and Why Should You Use a Fork?**
+   - List scenarios where forking a repository is the preferred approach over other Git/GitHub workflows.
+   - Explain why forking is useful in open-source projects and collaborative coding.
+
+3. **Practical Task: Forking a Repository**
+   - Choose a public GitHub repository that interests you (e.g., ArewaDS repository: https://github.com/arewadataScience/python-programming-fellowship)
+   - Fork the repository to your own GitHub account.
+   - Make a small change (e.g., edit the README or add a new file) and commit it in your forked version.
+   - Open a **Pull Request** to the original repository if applicable.
