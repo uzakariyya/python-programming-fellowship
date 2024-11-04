@@ -36,7 +36,8 @@ This assignment will help you develop your writing skills while sharing your lea
 
 ---
 
-**Writing Regularly**  
+## Writing Regularly
+
 This assignment isn’t just a one-time task! We encourage you to write **weekly reflections** on Medium throughout the program. Documenting your learning journey consistently will help you solidify your understanding, track your growth, and build a portfolio of insights that can inspire others.
 
 Weekly posts could include:
