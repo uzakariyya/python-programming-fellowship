@@ -71,11 +71,3 @@ The goal of this assignment is to get familiar with using GitHub, a powerful pla
 ## Submission
 - Provide the link to your GitHub repository and a screenshot of your merged pull request.
 
----
-
-## Bonus Task (Optional)
-Explore GitHub Issues and create a sample issue in your repository detailing a new feature or improvement.
-
----
-
-This assignment will give you hands-on experience with the basics of GitHub and collaborative development.
