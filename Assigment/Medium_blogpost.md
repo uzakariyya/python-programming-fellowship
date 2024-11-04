@@ -36,4 +36,13 @@ This assignment will help you develop your writing skills while sharing your lea
 
 ---
 
-This assignment will not only help you reflect on your learning but also enhance your ability to communicate technical knowledge—a key skill for any data scientist.
+**Writing Regularly**  
+This assignment isn’t just a one-time task! We encourage you to write **weekly reflections** on Medium throughout the program. Documenting your learning journey consistently will help you solidify your understanding, track your growth, and build a portfolio of insights that can inspire others.
+
+Weekly posts could include:
+- New skills or concepts you’ve learned.
+- Challenges you overcame and how you approached them.
+- Tips for other students who might face similar challenges.
+- Insights into tools, techniques, or projects that stood out to you.
+
+Each week, take a few minutes to jot down your thoughts. Over time, these reflections will enhance your technical communication skills—a crucial ability for any data scientist or machine learning practitioner. Remember, consistency is key, and every post brings you one step closer to mastering the art of conveying complex ideas clearly!
