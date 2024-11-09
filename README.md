@@ -128,6 +128,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 
 
 - Reference Book: **Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming**
+- Download the book [here](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Eric%20Matthes%20-%20Python%20Crash%20Course-No%20Starch%20Press%20(2023).pdf)
 
 
 ### 📑 Python Basics & Data Structures
