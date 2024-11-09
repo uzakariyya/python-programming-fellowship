@@ -131,6 +131,28 @@ In this initial part, we’ll guide you through the essential tools needed for d
 - Download the book [here](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Eric%20Matthes%20-%20Python%20Crash%20Course-No%20Starch%20Press%20(2023).pdf)
 
 
+
+| Week | Day       | Topic                                                                                          | Recording Available | Mentor |
+|------|-----------|------------------------------------------------------------------------------------------------|---------------------|--------|
+| 1    | Saturday  | Getting Started (Introduction to Python, setting up the environment, running the first program). (Reference Reading: Chapter 1) | -                   | -      |
+|      | Sunday    | Variables and Simple Data Types (Variables, data types, input/output). (Reference Reading: Chapter 2) | -                   | -      |
+| 2    | Saturday  | Introducing Lists (Creating and accessing lists, modifying lists). (Reference Reading: Chapter 3) | -                   | -      |
+|      | Sunday    | Working with Lists (Looping through lists, modifying elements). (Reference Reading: Chapter 4) | -                   | -      |
+| 3    | Saturday  | if Statements (Conditional tests, `if-elif-else` structures, boolean expressions). (Reference Reading: Chapter 5) | -                   | -      |
+|      | Sunday    | Dictionaries (Creating and using dictionaries, basic operations, looping through dictionaries). (Reference Reading: Chapter 6) | -                   | -      |
+| 4    | Saturday  | User Input and while Loops (Handling user input, `while` loops, break and continue statements). (Reference Reading: Chapter 7) | -                   | -      |
+|      | Sunday    | Functions (Defining functions, arguments, return values, and passing lists to functions). (Reference Reading: Chapter 8) | -                   | -      |
+| 5    | Saturday  | Classes (Defining classes, attributes, methods, and working with objects). (Reference Reading: Chapter 9) | -                   | -      |
+|      | Sunday    | Continuation (Inheritance and more complex class structures with exercises). (Reference Reading: Chapter 9) | -                   | -      |
+| 6    | Saturday  | Files and Exceptions (Reading/writing files, basic file operations). (Reference Reading: Chapter 10) | -                   | -      |
+|      | Sunday    | Testing Your Code (Introduction to unit testing, writing tests for functions and classes). (Reference Reading: Chapter 11) | -                   | -      |
+| 7    | Saturday  | NumPy Introduction (Creating arrays, basic operations, mathematical computations).             | -                   | -      |
+|      | Sunday    | Advanced NumPy (Array indexing, slicing, reshaping, and hands-on exercises).                   | -                   | -      |
+| 8    | Saturday  | Pandas Basics (Understanding Series and DataFrames, data loading).                             | -                   | -      |
+|      | Sunday    | Advanced Pandas (Data cleaning, exploratory data analysis, and practice with real-world datasets). | -                | -      |
+
+
+
 | Week | Day       | Topic                                                                                          | Recording Available | Mentor |
 |------|-----------|------------------------------------------------------------------------------------------------|---------------------|--------|
 | 1    | Saturday  | Chapter 1 – Getting Started (Introduction to Python, setting up the environment, running the first program). | Yes                 | John   |
