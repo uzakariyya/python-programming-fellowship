@@ -115,6 +115,18 @@ Use pipes `|` and dashes `-` to create tables.
 | Jane Smith   | Student       | Machine Learning |
 ```
 
+### Task Lists
+
+- Use - [ ] for an unchecked box and - [x] for a checked box.
+
+```markdown
+- [x] Complete Markdown lecture
+- [ ] Prepare assignments
+- [ ] Review student submissions
+
+```
+
+
 ### Horizontal Rule
 
 You can create a horizontal rule with three or more hyphens, asterisks, or underscores.
