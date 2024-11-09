@@ -138,8 +138,8 @@ In this initial part, we’ll guide you through the essential tools needed for d
 | 2    | Saturday  | Chapter 3 – Introducing Lists (Creating and accessing lists, modifying lists).                 | Yes                 | Sarah  |
 |      | Sunday    | Chapter 4 – Working with Lists (Looping through lists, modifying elements).                    | Yes                 | Sarah  |
 | 3    | Saturday  | Chapter 5 – if Statements (Conditional tests, `if-elif-else` structures, boolean expressions).  | Yes                 | Ahmed  |
-|      | Sunday    | Chapter 7 – User Input and while Loops (Handling user input, `while` loops, break and continue statements). | Yes           | Ahmed  |
-| 4    | Saturday  | Chapter 6 – Dictionaries (Creating and using dictionaries, basic operations, looping through dictionaries). | Yes         | Emily  |
+|      | Sunday    | Chapter 6 – Dictionaries (Creating and using dictionaries, basic operations, looping through dictionaries). | Yes           | Ahmed  |
+| 4    | Saturday  | Chapter 7 – User Input and while Loops (Handling user input, `while` loops, break and continue statements). | Yes         | Emily  |
 |      | Sunday    | Chapter 8 – Functions (Defining functions, arguments, return values, and passing lists to functions). | Yes         | Emily  |
 | 5    | Saturday  | Chapter 9 – Classes (Defining classes, attributes, methods, and working with objects).         | Yes                 | David  |
 |      | Sunday    | Chapter 9 – Continuation (Inheritance and more complex class structures with exercises).       | Yes                 | David  |
@@ -149,6 +149,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 |      | Sunday    | Advanced NumPy (Array indexing, slicing, reshaping, and hands-on exercises).                   | Yes                 | Sarah  |
 | 8    | Saturday  | Pandas Basics (Understanding Series and DataFrames, data loading).                             | Yes                 | Ahmed  |
 |      | Sunday    | Advanced Pandas (Data cleaning, exploratory data analysis, and practice with real-world datasets). | Yes          | Ahmed  |
+
 
 
 
