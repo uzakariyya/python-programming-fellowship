@@ -154,7 +154,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 ## 🐍 Python Projects
 
 
-| Project # | Project Title                              | Description                                                                 |
+| Project  | Project Title                              | Description                                                                 |
 |-----------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 4         | Generating Data                            | Work on generating and visualizing data using various Python libraries.     |
 | 5         | Downloading Data                           | Create a project focused on downloading, processing, and visualizing data.  |
