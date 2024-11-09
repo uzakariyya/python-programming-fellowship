@@ -131,6 +131,30 @@ In this initial part, we’ll guide you through the essential tools needed for d
 - Download the book [here](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Eric%20Matthes%20-%20Python%20Crash%20Course-No%20Starch%20Press%20(2023).pdf)
 
 
+
+| Week | Day       | Topic                                                                                          |
+|------|-----------|------------------------------------------------------------------------------------------------|
+| 1    | Saturday  | Chapter 1 – Getting Started (Introduction to Python, setting up the environment, running the first program). |
+|      | Sunday    | Chapter 2 – Variables and Simple Data Types (Variables, data types, input/output).             |
+| 2    | Saturday  | Chapter 3 – Introducing Lists (Creating and accessing lists, modifying lists).                 |
+|      | Sunday    | Chapter 4 – Working with Lists (Looping through lists, list comprehension, modifying elements). |
+| 3    | Saturday  | Chapter 5 – if Statements (Conditional tests, if-elif-else structures, boolean expressions).    |
+|      | Sunday    | Chapter 7 – User Input and while Loops (Handling user input, while loops, break and continue statements). |
+| 4    | Saturday  | Chapter 6 – Dictionaries (Creating and using dictionaries, basic operations, looping through dictionaries). |
+|      | Sunday    | Chapter 8 – Functions (Defining functions, arguments, return values, and passing lists to functions). |
+| 5    | Saturday  | Chapter 9 – Classes (Defining classes, attributes, methods, and working with objects).         |
+|      | Sunday    | Continuation of Chapter 9 – Inheritance and more complex class structures with exercises.       |
+| 6    | Saturday  | Chapter 10 – Files and Exceptions (Reading/writing files, basic file operations).              |
+|      | Sunday    | Chapter 11 – Testing Your Code (Introduction to unit testing, writing tests for functions and classes). |
+| 7    | Saturday  | NumPy Introduction (Creating arrays, basic operations, mathematical computations).             |
+|      | Sunday    | Advanced NumPy (Array indexing, slicing, reshaping, and hands-on exercises).                   |
+| 8    | Saturday  | Pandas Basics (Understanding Series and DataFrames, data loading).                             |
+|      | Sunday    | Advanced Pandas (Data cleaning, exploratory data analysis, and practice with real-world datasets). |
+
+
+
+
+
 ### 📑 Python Basics & Data Structures
 
 - 🔗 [Introduction](#)
