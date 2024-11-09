@@ -45,7 +45,7 @@ Applications for Cohort 3.0 have now closed, but you can still access our materi
 
 ## 🌐 Contact & Community
 
-- 📺 [Python Programming YouTube Playlist](#)
+- 📺 [Python Programming YouTube Playlist](https://www.youtube.com/playlist?list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY)
 - 🌐 Website: [Arewa Data Science Official Website](https://arewadatascience.github.io/)
 - 📧 Email: [arewadatascience@gmail.com](mailto:arewadatascience@gmail.com)
 - Follow us on:
