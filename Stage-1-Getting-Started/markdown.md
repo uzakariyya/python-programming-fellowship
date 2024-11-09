@@ -31,7 +31,7 @@ Headings are created by adding one or more `#` symbols before your heading text.
 ###### Heading 6
 ```
 
-###Emphasis
+### Emphasis
 
 You can emphasize text with bold or italic formatting.
 
@@ -92,10 +92,27 @@ Images are similar to links, but they require an exclamation point in front, and
 
 ### Code and Syntax Highlighting
 
+- Inline code: Use backticks `code` for inline code.
+- Code blocks: Use triple backticks (```) or indent code with four spaces for blocks.
+
 You can use backticks to create code blocks. For syntax highlighting, specify the language after the first set of backticks.
 
 ```python
 print("Hello, world!")
+```
+
+- I love `Arewa Data Science`
+
+
+### Tables
+
+Use pipes `|` and dashes `-` to create tables.
+
+```markdown
+| Name         | Role          | Department       |
+|--------------|---------------|------------------|
+| John Doe     | Instructor    | Data Science     |
+| Jane Smith   | Student       | Machine Learning |
 ```
 
 ### Horizontal Rule
