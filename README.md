@@ -132,26 +132,25 @@ In this initial part, we’ll guide you through the essential tools needed for d
 
 
 
-| Week | Day       | Topic                                                                                          |
-|------|-----------|------------------------------------------------------------------------------------------------|
-| 1    | Saturday  | Chapter 1 – Getting Started (Introduction to Python, setting up the environment, running the first program). |
-|      | Sunday    | Chapter 2 – Variables and Simple Data Types (Variables, data types, input/output).             |
-| 2    | Saturday  | Chapter 3 – Introducing Lists (Creating and accessing lists, modifying lists).                 |
-|      | Sunday    | Chapter 4 – Working with Lists (Looping through lists, list comprehension, modifying elements). |
-| 3    | Saturday  | Chapter 5 – if Statements (Conditional tests, if-elif-else structures, boolean expressions).    |
-|      | Sunday    | Chapter 7 – User Input and while Loops (Handling user input, while loops, break and continue statements). |
-| 4    | Saturday  | Chapter 6 – Dictionaries (Creating and using dictionaries, basic operations, looping through dictionaries). |
-|      | Sunday    | Chapter 8 – Functions (Defining functions, arguments, return values, and passing lists to functions). |
-| 5    | Saturday  | Chapter 9 – Classes (Defining classes, attributes, methods, and working with objects).         |
-|      | Sunday    | Continuation of Chapter 9 – Inheritance and more complex class structures with exercises.       |
-| 6    | Saturday  | Chapter 10 – Files and Exceptions (Reading/writing files, basic file operations).              |
-|      | Sunday    | Chapter 11 – Testing Your Code (Introduction to unit testing, writing tests for functions and classes). |
-| 7    | Saturday  | NumPy Introduction (Creating arrays, basic operations, mathematical computations).             |
-|      | Sunday    | Advanced NumPy (Array indexing, slicing, reshaping, and hands-on exercises).                   |
-| 8    | Saturday  | Pandas Basics (Understanding Series and DataFrames, data loading).                             |
-|      | Sunday    | Advanced Pandas (Data cleaning, exploratory data analysis, and practice with real-world datasets). |
 
-
+| Week | Day       | Topic                                                                                          | Recording Available | Mentor |
+|------|-----------|------------------------------------------------------------------------------------------------|---------------------|--------|
+| 1    | Saturday  | Chapter 1 – Getting Started (Introduction to Python, setting up the environment, running the first program). | Yes                 | John   |
+|      | Sunday    | Chapter 2 – Variables and Simple Data Types (Variables, data types, input/output).             | Yes                 | John   |
+| 2    | Saturday  | Chapter 3 – Introducing Lists (Creating and accessing lists, modifying lists).                 | Yes                 | Sarah  |
+|      | Sunday    | Chapter 4 – Working with Lists (Looping through lists, list comprehension, modifying elements). | Yes                 | Sarah  |
+| 3    | Saturday  | Chapter 5 – if Statements (Conditional tests, if-elif-else structures, boolean expressions).    | Yes                 | Ahmed  |
+|      | Sunday    | Chapter 7 – User Input and while Loops (Handling user input, while loops, break and continue statements). | Yes           | Ahmed  |
+| 4    | Saturday  | Chapter 6 – Dictionaries (Creating and using dictionaries, basic operations, looping through dictionaries). | Yes         | Emily  |
+|      | Sunday    | Chapter 8 – Functions (Defining functions, arguments, return values, and passing lists to functions). | Yes         | Emily  |
+| 5    | Saturday  | Chapter 9 – Classes (Defining classes, attributes, methods, and working with objects).         | Yes                 | David  |
+|      | Sunday    | Continuation of Chapter 9 – Inheritance and more complex class structures with exercises.       | Yes                 | David  |
+| 6    | Saturday  | Chapter 10 – Files and Exceptions (Reading/writing files, basic file operations).              | Yes                 | John   |
+|      | Sunday    | Chapter 11 – Testing Your Code (Introduction to unit testing, writing tests for functions and classes). | Yes          | John   |
+| 7    | Saturday  | NumPy Introduction (Creating arrays, basic operations, mathematical computations).             | Yes                 | Sarah  |
+|      | Sunday    | Advanced NumPy (Array indexing, slicing, reshaping, and hands-on exercises).                   | Yes                 | Sarah  |
+| 8    | Saturday  | Pandas Basics (Understanding Series and DataFrames, data loading).                             | Yes                 | Ahmed  |
+|      | Sunday    | Advanced Pandas (Data cleaning, exploratory data analysis, and practice with real-world datasets). | Yes          | Ahmed  |
 
 
 
