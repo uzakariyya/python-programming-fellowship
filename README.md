@@ -126,6 +126,10 @@ In this initial part, we’ll guide you through the essential tools needed for d
 
 ## 🐍 Python Programming
 
+
+Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming
+
+
 ### 📑 Python Basics & Data Structures
 
 - 🔗 [Introduction](#)
