@@ -151,6 +151,20 @@ In this initial part, we’ll guide you through the essential tools needed for d
 |      | Sunday    | Advanced Pandas (Data cleaning, exploratory data analysis, and practice with real-world datasets). | -                | -      |
 
 
+| Project # | Project Title                              | Description                                                                 |
+|-----------|---------------------------------------------|-----------------------------------------------------------------------------|
+| 1         | A Ship That Fires Bullets                  | Build a simple shooting game featuring a ship that fires bullets.           |
+| 2         | Aliens!                                    | Extend the shooting game to include alien enemies and interactions.         |
+| 3         | Scoring                                    | Add a scoring system to track and display the player's performance.         |
+| 4         | Generating Data                            | Work on generating and visualizing data using various Python libraries.     |
+| 5         | Downloading Data                           | Create a project focused on downloading, processing, and visualizing data.  |
+| 6         | Working with APIs                          | Integrate data from APIs and develop a project that uses external data sources. |
+| 7         | Getting Started with Django                | Develop a basic web application using Django as the framework.              |
+| 8         | User Accounts                              | Implement a user authentication system for a Django web app.                |
+| 9         | Styling and Deploying an App               | Style and deploy a fully functional web application built with Django.      |
+
+### Note:
+Each student must select at least one project from this list to complete as part of their coursework.
 
 
 
