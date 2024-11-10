@@ -162,7 +162,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 | 6         | Working with APIs                          | Integrate data from APIs and develop a project that uses external data sources. |
 
 ### Note:
-Each student must complete all the project!
+Each student must complete all the project in this course
 
 
 
