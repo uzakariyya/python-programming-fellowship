@@ -151,6 +151,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 |      | Sunday    | Advanced Pandas (Data cleaning, exploratory data analysis, and practice with real-world datasets). | -                | -      |
 
 
+
 ## 🐍 Python Projects
 
 
@@ -161,7 +162,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 | 6         | Working with APIs                          | Integrate data from APIs and develop a project that uses external data sources. |
 
 ### Note:
-Each student must select at least one project from this list to complete as part of their coursework.
+Each student must complete all the project!
 
 
 
