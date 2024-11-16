@@ -45,7 +45,7 @@ Applications for Cohort 3.0 have now closed, but you can still access our materi
 
 ## 🌐 Contact & Community
 
-- 📺 [Python Programming YouTube Playlist](#)
+- 📺 [Python Programming YouTube Playlist](https://www.youtube.com/playlist?list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY)
 - 🌐 Website: [Arewa Data Science Official Website](https://arewadatascience.github.io/)
 - 📧 Email: [arewadatascience@gmail.com](mailto:arewadatascience@gmail.com)
 - Follow us on:
@@ -115,46 +115,65 @@ In this initial part, we’ll guide you through the essential tools needed for d
 
 ### 📝 Assignments: Setup and Installation
 
+<<<<<<< HEAD
 | Assignment Name             | Link to Assignment                                                                                                                               |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Getting Started with Medium | [Getting Started with Medium ](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/Medium_blogpost.md)         |
 | GitHub Fundamentals         | [GitHub Fundamentals Assignment](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/GitHub%20Fundamentals.md) |
 | GitHub Profile              | [Customize your Proile](#)                                                                                                                       |
+=======
+| Assignment Name                          | Link to Assignment                                                   |
+| ---------------------------------------- | --------------------------------------------------------------------- |
+| 1. Getting Started with Medium                  | [Getting Started with Medium ](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/Medium_blogpost.md)                           |
+| 2. GitHub Fundamentals                      | [GitHub Fundamentals Assignment](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/GitHub%20Fundamentals.md)  
+| 3. GitHub Profile                    | [Customize your Proile](#) |
+>>>>>>> refs/remotes/origin/main
 
 
 ---
 
 ## 🐍 Python Programming
 
-### 📑 Python Basics & Data Structures
 
-- 🔗 [Introduction](#)
-- 🔗 [Variables & Built-in Functions](#)
-- 🔗 [Operators](#)
-- 🔗 [Strings](#)
-- 🔗 [Lists, Tuples, and Sets](#)
-- 🔗 [Dictionaries](#)
+- Reference Book: **Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming**
+- Download the book [here](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Eric%20Matthes%20-%20Python%20Crash%20Course-No%20Starch%20Press%20(2023).pdf)
 
-### 🔄 Control Flow & Functions
 
-- 🔗 [Conditionals](#)
-- 🔗 [Loops](#)
-- 🔗 [Functions & List Comprehension](#)
-- 🔗 [Higher-Order Functions](#)
+| Week | Day       | Topic                                                                                          | Recording Available | Mentor |
+|------|-----------|------------------------------------------------------------------------------------------------|---------------------|--------|
+| 1    | Saturday  | Getting Started (Introduction to Python, setting up the environment, running the first program). | -                   | -      |
+|      | Sunday    | Variables and Simple Data Types (Variables, data types, input/output).                         | -                   | -      |
+| 2    | Saturday  | Introducing Lists (Creating and accessing lists, modifying lists).                             | -                   | -      |
+|      | Sunday    | Working with Lists (Looping through lists, modifying elements).                                | -                   | -      |
+| 3    | Saturday  | if Statements (Conditional tests, `if-elif-else` structures, boolean expressions).             | -                   | -      |
+|      | Sunday    | Dictionaries (Creating and using dictionaries, basic operations, looping through dictionaries). | -                   | -      |
+| 4    | Saturday  | User Input and while Loops (Handling user input, `while` loops, break and continue statements). | -                   | -      |
+|      | Sunday    | Functions (Defining functions, arguments, return values, and passing lists to functions).       | -                   | -      |
+| 5    | Saturday  | Classes (Defining classes, attributes, methods, and working with objects).                     | -                   | -      |
+|      | Sunday    | Continuation (Inheritance and more complex class structures with exercises).                   | -                   | -      |
+| 6    | Saturday  | Files and Exceptions (Reading/writing files, basic file operations).                           | -                   | -      |
+|      | Sunday    | Testing Your Code (Introduction to unit testing, writing tests for functions and classes).      | -                   | -      |
+| 7    | Saturday  | NumPy Introduction (Creating arrays, basic operations, mathematical computations).             | -                   | -      |
+|      | Sunday    | Advanced NumPy (Array indexing, slicing, reshaping, and hands-on exercises).                   | -                   | -      |
+| 8    | Saturday  | Pandas Basics (Understanding Series and DataFrames, data loading).                             | -                   | -      |
+|      | Sunday    | Advanced Pandas (Data cleaning, exploratory data analysis, and practice with real-world datasets). | -                | -      |
 
-### ⚙️ Advanced Python Concepts
 
-- 🔗 [Type Errors & Exception Handling](#)
-- 🔗 [Regular Expressions](#)
-- 🔗 [DateTime & File Handling](#)
-- 🔗 [Modules & Virtual Environment](#)
 
-### 📊 Python for Data Science
+## 🐍 Python Projects
 
-- 🔗 [Package Management](#)
-- 🔗 [Classes and Objects](#)
-- 🔗 [Web Scraping & APIs](#)
-- 🔗 [Statistics, NumPy, and Pandas](#)
+
+| Project  | Project Title                              | Description                                                                 |
+|-----------|---------------------------------------------|-----------------------------------------------------------------------------|
+| 4         | Generating Data                            | Work on generating and visualizing data using various Python libraries.     |
+| 5         | Downloading Data                           | Create a project focused on downloading, processing, and visualizing data.  |
+| 6         | Working with APIs                          | Integrate data from APIs and develop a project that uses external data sources. |
+
+### Note:
+Each student must complete all the project in this course
+
+
+
 
 ---
 
