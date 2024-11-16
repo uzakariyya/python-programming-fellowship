@@ -115,7 +115,6 @@ In this initial part, we’ll guide you through the essential tools needed for d
 
 ### 📝 Assignments: Setup and Installation
 
-<<<<<<< HEAD
 | Assignment Name             | Link to Assignment                                                                                                                               |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Getting Started with Medium | [Getting Started with Medium ](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/Medium_blogpost.md)         |
@@ -127,7 +126,6 @@ In this initial part, we’ll guide you through the essential tools needed for d
 | 1. Getting Started with Medium                  | [Getting Started with Medium ](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/Medium_blogpost.md)                           |
 | 2. GitHub Fundamentals                      | [GitHub Fundamentals Assignment](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/GitHub%20Fundamentals.md)  
 | 3. GitHub Profile                    | [Customize your Proile](#) |
->>>>>>> refs/remotes/origin/main
 
 
 ---
