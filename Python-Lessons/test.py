@@ -1,4 +1,4 @@
-# file: test.py
-print("Running test.py")
-x = 5
-print("Result is", 3 * x)
+print("Hello World")
+print(1+2)
+
+
