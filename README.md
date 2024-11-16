@@ -132,7 +132,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 - Download the book [here](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Eric%20Matthes%20-%20Python%20Crash%20Course-No%20Starch%20Press%20(2023).pdf)
 
 
-| Week | Day       | Topic                                                                                          | Recording Available | Mentor |
+| Week | Day       | Topic                                                                                          | Session Recording | Mentor |
 |------|-----------|------------------------------------------------------------------------------------------------|---------------------|--------|
 | 1    | Saturday  | Getting Started (Introduction to Python, setting up the environment, running the first program). |  [Recording](https://youtu.be/1_AOqZM28ww)                |   [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/)  |
 |      | Sunday    | Variables and Simple Data Types (Variables, data types, input/output).                         | -                   | -      |
