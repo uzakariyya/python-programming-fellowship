@@ -120,7 +120,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 | Getting Started with Medium | [Getting Started with Medium ](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/Medium_blogpost.md)         |
 | GitHub Fundamentals         | [GitHub Fundamentals Assignment](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/GitHub%20Fundamentals.md) |
 | GitHub Profile              | [Customize your Proile](#)                                                                                                                       |
-=======
+
 
 
 ---
@@ -134,7 +134,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 
 | Week | Day       | Topic                                                                                          | Recording Available | Mentor |
 |------|-----------|------------------------------------------------------------------------------------------------|---------------------|--------|
-| 1    | Saturday  | Getting Started (Introduction to Python, setting up the environment, running the first program). | -                   | -      |
+| 1    | Saturday  | Getting Started (Introduction to Python, setting up the environment, running the first program). |  [Recording](https://youtu.be/1_AOqZM28ww)                |   [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/)  |
 |      | Sunday    | Variables and Simple Data Types (Variables, data types, input/output).                         | -                   | -      |
 | 2    | Saturday  | Introducing Lists (Creating and accessing lists, modifying lists).                             | -                   | -      |
 |      | Sunday    | Working with Lists (Looping through lists, modifying elements).                                | -                   | -      |
