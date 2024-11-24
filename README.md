@@ -136,7 +136,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 |------|-----------|------------------------------------------------------------------------------------------------|---------------------|--------|
 | 1    | Saturday  | Getting Started (Introduction to Python, setting up the environment, running the first program). |  [Recording](https://youtu.be/1_AOqZM28ww)                |   [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/)  |
 |      | Sunday    | Variables and Simple Data Types (Variables, data types, input/output).                         | [Recording](https://youtu.be/tXt9L85x_9s)                   |  [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/)    |
-| 2    | Saturday  | Introducing Lists (Creating and accessing lists, modifying lists).                             | -                   | Falalu     |
+| 2    | Saturday  | Introducing Lists (Creating and accessing lists, modifying lists).                             | [Recording](https://youtu.be/PJVg0HtJA88)                  | Falalu     |
 |      | Sunday    | Working with Lists (Looping through lists, modifying elements).                                | -                   | -      |
 | 3    | Saturday  | if Statements (Conditional tests, `if-elif-else` structures, boolean expressions).             | -                   | -      |
 |      | Sunday    | Dictionaries (Creating and using dictionaries, basic operations, looping through dictionaries). | -                   | -      |
