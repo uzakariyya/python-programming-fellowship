@@ -152,6 +152,27 @@ In this initial part, we’ll guide you through the essential tools needed for d
 |      | Sunday    | Advanced Pandas (Data cleaning, exploratory data analysis, and practice with real-world datasets). | -                | -      |
 
 
+| Week | Day       | Topic                                                                                          | Session Recording              | Mentor                                         | Exercises |
+|------|-----------|------------------------------------------------------------------------------------------------|--------------------------------|-----------------------------------------------|-----------|
+| 1    | Saturday  | Getting Started (Introduction to Python, setting up the environment, running the first program). | [Recording](https://youtu.be/1_AOqZM28ww) | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) | TBD       |
+|      | Sunday    | Variables and Simple Data Types (Variables, data types, input/output).                         | [Recording](https://youtu.be/tXt9L85x_9s)  | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) | TBD       |
+| 2    | Saturday  | Introducing Lists (Creating and accessing lists, modifying lists).                             | [Recording](https://youtu.be/PJVg0HtJA88)  | Falalu                                         | TBD       |
+|      | Sunday    | Working with Lists (Looping through lists, modifying elements).                                | -                              | -                                             | TBD       |
+| 3    | Saturday  | if Statements (Conditional tests, `if-elif-else` structures, boolean expressions).             | -                              | -                                             | TBD       |
+|      | Sunday    | Dictionaries (Creating and using dictionaries, basic operations, looping through dictionaries). | -                              | -                                             | TBD       |
+| 4    | Saturday  | User Input and while Loops (Handling user input, `while` loops, break and continue statements). | -                              | -                                             | TBD       |
+|      | Sunday    | Functions (Defining functions, arguments, return values, and passing lists to functions).       | -                              | -                                             | TBD       |
+| 5    | Saturday  | Classes (Defining classes, attributes, methods, and working with objects).                     | -                              | -                                             | TBD       |
+|      | Sunday    | Continuation (Inheritance and more complex class structures with exercises).                   | -                              | -                                             | TBD       |
+| 6    | Saturday  | Files and Exceptions (Reading/writing files, basic file operations).                           | -                              | -                                             | TBD       |
+|      | Sunday    | Testing Your Code (Introduction to unit testing, writing tests for functions and classes).      | -                              | -                                             | TBD       |
+| 7    | Saturday  | NumPy Introduction (Creating arrays, basic operations, mathematical computations).             | -                              | -                                             | TBD       |
+|      | Sunday    | Advanced NumPy (Array indexing, slicing, reshaping, and hands-on exercises).                   | -                              | -                                             | TBD       |
+| 8    | Saturday  | Pandas Basics (Understanding Series and DataFrames, data loading).                             | -                              | -                                             | TBD       |
+|      | Sunday    | Advanced Pandas (Data cleaning, exploratory data analysis, and practice with real-world datasets). | -                              | -                                             | TBD       |
+
+
+
 
 ## 🐍 Python Projects
 
