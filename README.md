@@ -131,6 +131,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 - Reference Book: **Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming**
 - Download the book [here](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Eric%20Matthes%20-%20Python%20Crash%20Course-No%20Starch%20Press%20(2023).pdf)
 - [ArewaDS 30-days of Python Programming Repo](https://github.com/arewadataScience/30-Days-of-Python) - We will be using the exercises from this repository in this course.
+- Here is an example of [Assignment Repository](https://github.com/arewadataScience/arewads-python-exercises)
 
 
 
