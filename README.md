@@ -1,3 +1,7 @@
+
+
+
+
 ![image](https://github.com/user-attachments/assets/38c11761-39a9-411c-8459-738f32163a0a)<p align="center">
     <img src="assets/arewadsimage.png" alt="ArewaDS Python for Beginners - Cohort 3.0">
 </p>
