@@ -138,7 +138,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 
 | Week | Date      | Topic                                                                                          | Session Recording              | Mentor                                         | Exercises |
 |------|-----------|------------------------------------------------------------------------------------------------|--------------------------------|-----------------------------------------------|-----------|
-| 1    | 16/11/2024   | [Getting Started (Introduction to Python, setting up the environment, running the first program).](https://github.com/arewadataScience/python-programming-fellowship/blob/main/02_Python-Lessons/chapter1.ipynb
+| 1    | 16/11/2024   | [Getting Started (Introduction to Python, setting up the environment, running the first program)](https://github.com/arewadataScience/python-programming-fellowship/blob/main/02_Python-Lessons/chapter1.ipynb)
 ![image](https://github.com/user-attachments/assets/f8df3791-34b4-4bb4-8e69-769314ab2292)
 ) | [Recording](https://youtu.be/1_AOqZM28ww) | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) | -       |
 |      |  23/11/2024  | [Variables and Simple Data Types (Variables, data types, input/output)](https://github.com/arewadataScience/python-programming-fellowship/blob/main/02_Python-Lessons/chapter2.ipynb)
