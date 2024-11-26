@@ -1,4 +1,4 @@
-    ![image](https://github.com/user-attachments/assets/38c11761-39a9-411c-8459-738f32163a0a)<p align="center">
+![image](https://github.com/user-attachments/assets/38c11761-39a9-411c-8459-738f32163a0a)<p align="center">
     <img src="assets/arewadsimage.png" alt="ArewaDS Python for Beginners - Cohort 3.0">
 </p>
 
@@ -158,29 +158,6 @@ In this initial part, we’ll guide you through the essential tools needed for d
 
 
 
-
-
-| Week | Date      | Topic                                                                                          | Session Recording              | Mentor                                         | Exercises |
-|------|-----------|------------------------------------------------------------------------------------------------|--------------------------------|-----------------------------------------------|-----------|
-| 1    | 16/11/2024   | [Getting Started (Introduction to Python, setting up the environment, running the first program)](https://github.com/arewadataScience/python-programming-fellowship/blob/main/02_Python-Lessons/chapter1.ipynb)
-![image](https://github.com/user-attachments/assets/f8df3791-34b4-4bb4-8e69-769314ab2292)
-) | [Recording](https://youtu.be/1_AOqZM28ww) | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) | -       |
-|      |  23/11/2024  | [Variables and Simple Data Types (Variables, data types, input/output)]![image](https://github.com/user-attachments/assets/87ceb25f-87a0-40de-8dcd-98e851e2b6a4)
-).                         | [Recording](https://youtu.be/tXt9L85x_9s)  | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) | [Module 2,3,and 4 Exercises ](https://github.com/arewadataScience/30-Days-of-Python/blob/main/02_Module_Variables_builtin_functions/02_variables_builtin_functions.md)     |
-| 2    | 24/11/2024  | [Introducing Lists (Creating and accessing lists, modifying lists)](https://github.com/arewadataScience/python-programming-fellowship/blob/main/02_Python-Lessons/chapter3.ipynb).                             | [Recording](https://youtu.be/PJVg0HtJA88)  | Falalu                                         | [Module 5 List exercises](https://github.com/arewadataScience/30-Days-of-Python/blob/main/05_Module_Lists_Tuples_Sets/05_lists_tuples_sets.md)     |
-|      | -     | Working with Lists (Looping through lists, modifying elements).                                | -                              | -                                             | [Module 5 Tuple and Set exercises](https://github.com/arewadataScience/30-Days-of-Python/blob/main/05_Module_Lists_Tuples_Sets/05_lists_tuples_sets.md)       |
-| 3    | -  | if Statements (Conditional tests, `if-elif-else` structures, boolean expressions).             | -                              | -                                             | TBD       |
-|      | -    | Dictionaries (Creating and using dictionaries, basic operations, looping through dictionaries). | -                              | -                                             | TBD       |
-| 4    | -  | User Input and while Loops (Handling user input, `while` loops, break and continue statements). | -                              | -                                             | TBD       |
-|      | -    | Functions (Defining functions, arguments, return values, and passing lists to functions).       | -                              | -                                             | TBD       |
-| 5    | -  | Classes (Defining classes, attributes, methods, and working with objects).                     | -                              | -                                             | TBD       |
-|      | -    | Continuation (Inheritance and more complex class structures with exercises).                   | -                              | -                                             | TBD       |
-| 6    | -  | Files and Exceptions (Reading/writing files, basic file operations).                           | -                              | -                                             | TBD       |
-|      | -    | Testing Your Code (Introduction to unit testing, writing tests for functions and classes).      | -                              | -                                             | TBD       |
-| 7    | -  | NumPy Introduction (Creating arrays, basic operations, mathematical computations).             | -                              | -                                             | TBD       |
-|      | -    | Advanced NumPy (Array indexing, slicing, reshaping, and hands-on exercises).                   | -                              | -                                             | TBD       |
-| 8    | -  | Pandas Basics (Understanding Series and DataFrames, data loading).                             | -                              | -                                             | TBD       |
-|      | -    | Advanced Pandas (Data cleaning, exploratory data analysis, and practice with real-world datasets). | -                              | -                                             | TBD       |
 
 
 
