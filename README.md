@@ -160,9 +160,9 @@ In this initial part, we’ll guide you through the essential tools needed for d
 
 | Project  | Project Title                              | Description                                                                 |
 |-----------|---------------------------------------------|-----------------------------------------------------------------------------|
-| 4         | Generating Data                            | Work on generating and visualizing data using various Python libraries.     |
-| 5         | Downloading Data                           | Create a project focused on downloading, processing, and visualizing data.  |
-| 6         | Working with APIs                          | Integrate data from APIs and develop a project that uses external data sources. |
+| 1         | Generating Data                            | Work on generating and visualizing data using various Python libraries.     |
+| 2         | Downloading Data                           | Create a project focused on downloading, processing, and visualizing data.  |
+| 3         | Working with APIs                          | Integrate data from APIs and develop a project that uses external data sources. |
 
 ### Note:
 Each student must complete all the project in this course
