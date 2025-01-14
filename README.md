@@ -148,13 +148,6 @@ In this initial part, we’ll guide you through the essential tools needed for d
 |      | -    | Functions (Defining functions, arguments, return values, and passing lists to functions).       | [Recording](https://www.youtube.com/watch?v=yzjr4_p2sE8&list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY&index=3&t=2s)                        | Falalu                                            | [Function1](https://github.com/arewadataScience/30-Days-of-Python/blob/main/09_Module_Functions_List_Comprehensions/09_functions_list_comprehensions.md) \| [Function2](https://github.com/arewadataScience/30-Days-of-Python/blob/main/10_Module_Higher_order_functions/10_higher_order_functions.md)     |
 | 5    | -  | Classes (Defining classes, attributes, methods, and working with objects).                     | [Recording](https://www.youtube.com/watch?v=NHwOgJL2s2Q&list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY&index=1)                          | -                                             | [Classes](https://github.com/arewadataScience/30-Days-of-Python/blob/main/16_Module_Classes_and_objects/16_classes_and_objects.md)     | Falalu
 | 6    | -  | Files and Exceptions (Reading/writing files, basic file operations).                           | -                              | -                                             | [Date and File Handling](https://github.com/arewadataScience/30-Days-of-Python/blob/main/13_Module_Python_date_time_file_handling/13_python_datetime_file_handling.md)       |
-|      | -    | Testing Your Code (Introduction to unit testing, writing tests for functions and classes).      | -                              | -                                             | TBD       |
-| 7    | -  | NumPy Introduction (Creating arrays, basic operations, mathematical computations).             | -                              | -                                             | TBD       |
-|      | -    | Advanced NumPy (Array indexing, slicing, reshaping, and hands-on exercises).                   | -                              | -                                             | TBD       |
-| 8    | -  | Pandas Basics (Understanding Series and DataFrames, data loading).                             | -                              | -                                             | TBD       |
-|      | -    | Advanced Pandas (Data cleaning, exploratory data analysis, and practice with real-world datasets). | -                              | -                                             | TBD       |
-
-
 
 
 
@@ -167,9 +160,9 @@ In this initial part, we’ll guide you through the essential tools needed for d
 
 | Project  | Project Title                              | Description                                                                 |
 |-----------|---------------------------------------------|-----------------------------------------------------------------------------|
-| 4         | Generating Data                            | Work on generating and visualizing data using various Python libraries.     |
-| 5         | Downloading Data                           | Create a project focused on downloading, processing, and visualizing data.  |
-| 6         | Working with APIs                          | Integrate data from APIs and develop a project that uses external data sources. |
+| 1         | Generating Data                            | Work on generating and visualizing data using various Python libraries.     |
+| 2         | Downloading Data                           | Create a project focused on downloading, processing, and visualizing data.  |
+| 3         | Working with APIs                          | Integrate data from APIs and develop a project that uses external data sources. |
 
 ### Note:
 Each student must complete all the project in this course
